@@ -26,7 +26,7 @@ Here are some of my recent articles where I share my knowledge and experience:
 - **[Velero: Kubernetes Backup and Restore Solution for AWS EKS](https://medium.com/hedgus/velero-kubernetes-backup-and-restore-solution-for-aws-eks-763910b32fef )**
 - **[Velero: Kubernetes Backup and Restore Solution for Azure AKS](https://medium.com/hedgus/velero-kubernetes-backup-and-restore-solution-0cbd56f449be )**
 - **[Comprehensive Guide to kube-bench: Enhancing Kubernetes Security](https://medium.com/hedgus/comprehensive-guide-to-kube-bench-enhancing-kubernetes-security-1-988ac050598c )**
-- **[Enhancing Cybersecurity with MISP: Complete Ubuntu Installation and SSL Guide](https://medium.com/hedgus/enhancing-cybersecurity-with-misp-complete-ubuntu-installation-ssl-certification-and-event-d9284b928596 )**
+- **[Enhancing Cybersecurity with MISP: Complete Ubuntu Installation and SSL Guide](https.medium.com/hedgus/enhancing-cybersecurity-with-misp-complete-ubuntu-installation-ssl-certification-and-event-d9284b928596 )**
 - **[Azure Key Vault provider for Secrets Store CSI Driver in AKS](https://medium.com/hedgus/azure-key-vault-provider-for-secrets-store-csi-driver-in-an-azure-kubernetes-service-aks-56de3fe6c9b4 )**
 - **[Istio Tutorial (Ingress Gateway, Virtual Service, mTLS)](https://medium.com/@mehmetkanus17/istio-tutorial-ingress-gateway-virtual-service-gateway-ingress-mtls-2bcefe6f4e86 )**
 - **[Demystifying Kubernetes Monitoring: A Guide to Prometheus with kube-prometheus-stack](https://medium.com/@mehmetkanus17/demystifying-kubernetes-monitoring-a-comprehensive-guide-to-prometheus-with-f2468cd20bf1 )**
@@ -51,10 +51,12 @@ Here are some of my recent articles where I share my knowledge and experience:
 
 **CI/CD & GitOps:**
 <p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Nexus-1A5179?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus"/>
 </p>
 
 **Infrastructure as Code & Config Management:**
@@ -63,22 +65,47 @@ Here are some of my recent articles where I share my knowledge and experience:
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
-**Observability & Service Mesh:**
+**Monitoring & Observability:**
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
   <img src="https://img.shields.io/badge/Loki-F29933?style=for-the-badge&logo=loki&logoColor=white" alt="Loki"/>
+  <img src="https://img.shields.io/badge/Fluentd-00728C?style=for-the-badge&logo=fluentd&logoColor=white" alt="Fluentd"/>
 </p>
 
-**Databases & Caching:**
+**Security & Secret Management:**
+<p>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=hashicorp&logoColor=black" alt="HashiCorp Vault"/>
+  <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=azure-key-vault&logoColor=white" alt="Azure Key Vault"/>
+  <img src="https://img.shields.io/badge/Open_Policy_Agent-7D7D7D?style=for-the-badge&logo=open-policy-agent&logoColor=white" alt="OPA"/>
+</p>
+
+**Networking & Service Mesh:**
+<p>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/HAProxy-000000?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy"/>
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik-mesh&logoColor=white" alt="Traefik"/>
+  <img src="https://img.shields.io/badge/Calico-FF6A00?style=for-the-badge&logo=project-calico&logoColor=white" alt="Calico"/>
+  <img src="https://img.shields.io/badge/Cilium-007BFF?style=for-the-badge&logo=cilium&logoColor=white" alt="Cilium"/>
+</p>
+
+**Database & Caching:**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Redpanda-FF0000?style=for-the-badge&logo=redpanda&logoColor=white" alt="Redpanda"/>
+</p>
+
+**Scripting & Programming:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
 ---
