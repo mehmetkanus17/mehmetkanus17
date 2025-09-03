@@ -19,18 +19,18 @@ I am an experienced **Senior DevOps&Cloud Engineer** and **Cloud Architect** wit
 
 Here are some of my recent articles where I share my knowledge and experience:
 
-- **[End-to-End DevOps Project: Multi-Master Kubernetes Infrastructure](https://medium.com/@mehmetkanus17/end-to-end-devops-project-multi-master-kubernetes-with-terraform-ansible-gitops-ci-cd-vault-af7f27b82941 )**
-- **[ArgoCD + GitHub Actions: A Complete GitOps CI/CD Workflow for Kubernetes](https://medium.com/@mehmetkanus17/argocd-github-actions-a-complete-gitops-ci-cd-workflow-for-kubernetes-applications-ed2f91d37641 )**
-- **[Install Elastic Stack (Filebeat, Logstash, Elasticsearch, and Kibana) on Kubernetes Using Helm](https://medium.com/@mehmetkanus17/how-to-deploy-elastic-stack-filebeat-logstash-elasticsearch-and-kibana-on-kubernetes-using-f6c763037da6 )**
-- **[Handling Application Failures in Kubernetes: Redirecting Traffic to Custom Error Pages](https://medium.com/hedgus/handling-application-failures-in-kubernetes-redirecting-unreachable-traffic-to-custom-error-pages-d30be1276455 )**
-- **[Velero: Kubernetes Backup and Restore Solution for AWS EKS](https://medium.com/hedgus/velero-kubernetes-backup-and-restore-solution-for-aws-eks-763910b32fef )**
-- **[Velero: Kubernetes Backup and Restore Solution for Azure AKS](https://medium.com/hedgus/velero-kubernetes-backup-and-restore-solution-0cbd56f449be )**
-- **[Comprehensive Guide to kube-bench: Enhancing Kubernetes Security](https://medium.com/hedgus/comprehensive-guide-to-kube-bench-enhancing-kubernetes-security-1-988ac050598c )**
-- **[Enhancing Cybersecurity with MISP: Complete Ubuntu Installation and SSL Guide](https.medium.com/hedgus/enhancing-cybersecurity-with-misp-complete-ubuntu-installation-ssl-certification-and-event-d9284b928596 )**
-- **[Azure Key Vault provider for Secrets Store CSI Driver in AKS](https://medium.com/hedgus/azure-key-vault-provider-for-secrets-store-csi-driver-in-an-azure-kubernetes-service-aks-56de3fe6c9b4 )**
-- **[Istio Tutorial (Ingress Gateway, Virtual Service, mTLS)](https://medium.com/@mehmetkanus17/istio-tutorial-ingress-gateway-virtual-service-gateway-ingress-mtls-2bcefe6f4e86 )**
-- **[Demystifying Kubernetes Monitoring: A Guide to Prometheus with kube-prometheus-stack](https://medium.com/@mehmetkanus17/demystifying-kubernetes-monitoring-a-comprehensive-guide-to-prometheus-with-f2468cd20bf1 )**
-- **[End-to-End DevOps: Kubernetes Project Management with GitLab CI/CD on AWS EKS](https://medium.com/@mehmetkanus17/end-to-end-devops-kubernetes-project-management-with-gitlab-ci-cd-a870fb189761 )**
+- **[End-to-End DevOps Project: Multi-Master Kubernetes Infrastructure](https://medium.com/@mehmetkanus17/end-to-end-devops-project-multi-master-kubernetes-with-terraform-ansible-gitops-ci-cd-vault-af7f27b82941  )**
+- **[ArgoCD + GitHub Actions: A Complete GitOps CI/CD Workflow for Kubernetes](https://medium.com/@mehmetkanus17/argocd-github-actions-a-complete-gitops-ci-cd-workflow-for-kubernetes-applications-ed2f91d37641  )**
+- **[Install Elastic Stack (Filebeat, Logstash, Elasticsearch, and Kibana) on Kubernetes Using Helm](https://medium.com/@mehmetkanus17/how-to-deploy-elastic-stack-filebeat-logstash-elasticsearch-and-kibana-on-kubernetes-using-f6c763037da6  )**
+- **[Handling Application Failures in Kubernetes: Redirecting Traffic to Custom Error Pages](https://medium.com/hedgus/handling-application-failures-in-kubernetes-redirecting-unreachable-traffic-to-custom-error-pages-d30be1276455  )**
+- **[Velero: Kubernetes Backup and Restore Solution for AWS EKS](https://medium.com/hedgus/velero-kubernetes-backup-and-restore-solution-for-aws-eks-763910b32fef  )**
+- **[Velero: Kubernetes Backup and Restore Solution for Azure AKS](https://medium.com/hedgus/velero-kubernetes-backup-and-restore-solution-0cbd56f449be  )**
+- **[Comprehensive Guide to kube-bench: Enhancing Kubernetes Security](https://medium.com/hedgus/comprehensive-guide-to-kube-bench-enhancing-kubernetes-security-1-988ac050598c  )**
+- **[Enhancing Cybersecurity with MISP: Complete Ubuntu Installation and SSL Guide](https.medium.com/hedgus/enhancing-cybersecurity-with-misp-complete-ubuntu-installation-ssl-certification-and-event-d9284b928596  )**
+- **[Azure Key Vault provider for Secrets Store CSI Driver in AKS](https://medium.com/hedgus/azure-key-vault-provider-for-secrets-store-csi-driver-in-an-azure-kubernetes-service-aks-56de3fe6c9b4  )**
+- **[Istio Tutorial (Ingress Gateway, Virtual Service, mTLS)](https://medium.com/@mehmetkanus17/istio-tutorial-ingress-gateway-virtual-service-gateway-ingress-mtls-2bcefe6f4e86  )**
+- **[Demystifying Kubernetes Monitoring: A Guide to Prometheus with kube-prometheus-stack](https://medium.com/@mehmetkanus17/demystifying-kubernetes-monitoring-a-comprehensive-guide-to-prometheus-with-f2468cd20bf1  )**
+- **[End-to-End DevOps: Kubernetes Project Management with GitLab CI/CD on AWS EKS](https://medium.com/@mehmetkanus17/end-to-end-devops-kubernetes-project-management-with-gitlab-ci-cd-a870fb189761  )**
 
 ---
 
