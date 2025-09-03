@@ -87,7 +87,7 @@ Here are some of my recent articles where I share my knowledge and experience:
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
   <img src="https://img.shields.io/badge/HAProxy-000000?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy"/>
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik-mesh&logoColor=white" alt="Traefik"/>
-  <img src="https.img.shields.io/badge/Calico-FF6A00?style=for-the-badge&logo=project-calico&logoColor=white" alt="Calico"/>
+  <img src="https://img.shields.io/badge/Calico-FF6A00?style=for-the-badge&logo=project-calico&logoColor=white" alt="Calico"/>
   <img src="https://img.shields.io/badge/Cilium-007BFF?style=for-the-badge&logo=cilium&logoColor=white" alt="Cilium"/>
 </div>
 
