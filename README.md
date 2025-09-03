@@ -87,7 +87,7 @@ Here are some of my recent articles where I share my knowledge and experience:
 
 <p>
   <a href="https://www.credly.com/badges/27b4bf9b-5fa7-480b-866c-2931c205bc9a/linked_in_profile" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/8b8ed108-c775-4084-97c2-0253538da654/kubernetes-cka-color.png" alt="Certified Kubernetes Administrator" width="150">
+    <img src="https://s3.us-east-1.amazonaws.com/mehmetkanus.com/cka.jpg" alt="Certified Kubernetes Administrator" width="150">
   </a>
 </p>
 
@@ -95,7 +95,7 @@ Here are some of my recent articles where I share my knowledge and experience:
 
 ### 📬 Connect with Me
 
-<div align="center">
+<p>
   <a href="https://www.linkedin.com/in/mehmet-kanu%C5%9F/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -111,4 +111,4 @@ Here are some of my recent articles where I share my knowledge and experience:
   <a href="mailto:mehmetkanus17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+</p>
