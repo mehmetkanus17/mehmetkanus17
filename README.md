@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Mehmet Kanuş 👋</h1>
+<h1 align="center">Mehmet Kanuş</h1>
 <h3 align="center">Senior DevOps & Cloud Engineer | CKA Certified</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an experienced **Platform/DevOps Engineer** and **Cloud Architect** with over 5 years in IT, specializing in DevOps and Cloud-Native technologies for the last 4+ years. My core expertise lies in designing and managing scalable, resilient, and developer-first infrastructures.
+I am an experienced **Senior DevOps&Cloud Engineer** and **Cloud Architect** with over 5 years in IT, specializing in DevOps and Cloud-Native technologies for the last 4+ years. My core expertise lies in designing and managing scalable, resilient, and developer-first infrastructures.
 
 - 🚀 I build robust, automated **CI/CD pipelines** and implement **GitOps** best practices with tools like **ArgoCD** and **GitHub Actions**.
 - ☁️ I have extensive experience in architecting and deploying microservices on **AWS** and **Azure**, with a strong command of **Kubernetes (CKA Certified)**.
