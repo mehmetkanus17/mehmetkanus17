@@ -5,13 +5,21 @@
 
 ### 👨‍💻 About Me
 
-I am an experienced **Senior DevOps&Cloud Engineer** and **Cloud Architect** with over 5 years in IT, specializing in DevOps and Cloud-Native technologies for the last 4+ years. My core expertise lies in designing and managing scalable, resilient, and developer-first infrastructures.
+I am a Senior DevOps & Cloud Engineer with 5+ years of IT experience, including 4+ years specializing in Cloud Native and DevOps practices.
 
-- I build robust, automated **CI/CD pipelines** and implement **GitOps** best practices with tools like **ArgoCD** and **GitHub Actions**.
-- I have extensive experience in architecting and deploying microservices on **AWS** and **Azure**, with a strong command of **Kubernetes (CKA Certified)**.
-- I am skilled in implementing **Service Mesh** solutions using **Istio** to secure and manage microservice communication.
-- I am passionate about creating comprehensive **observability stacks** with **Prometheus, Grafana, and the ELK Stack** to ensure operational excellence.
-- **My Goal:** To empower development teams by building seamless, automated platforms that enhance productivity and accelerate innovation.
+I have strong expertise in Kubernetes (CKA certified), AWS, Azure, and multi-cloud architectures, with a proven track record of building scalable, secure, and highly available infrastructures.
+
+My core skills include:
+*   **Cloud Platforms**: AWS, Azure, Multi-cloud
+*   **Containerization & Orchestration**: Kubernetes, Docker, Helm
+*   **Infrastructure as Code**: Terraform, Ansible
+*   **CI/CD & GitOps**: GitHub Actions, Jenkins, GitLab CI, ArgoCD
+*   **Monitoring & Observability**: Prometheus, Grafana, ELK, Loki
+*   **Networking & Security**: Istio, NGINX, HAProxy, RBAC, Vault (HashiCorp, AWS, Azure Key Vault)
+
+I have designed and implemented end-to-end DevOps solutions for multiple organizations, including microservices-based platforms, GitOps-driven CI/CD pipelines, observability stacks, and service mesh architectures.
+
+I am passionate about developer-first platform design, automation, and operational excellence, helping teams ship software faster, safer, and at scale.
 
 ---
 
